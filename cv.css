@@ -1,0 +1,158 @@
+*{
+    max-width: 100vh;
+    box-sizing: border-box;
+    font: "Lato", sans-serif;
+    background-color: whitesmoke;
+    list-style: none;
+}
+
+.main{
+    width: 50%;
+    position: relative;
+    float: right;
+    margin-left: 12px;
+}
+
+.name{
+    color: rgb(71, 69, 69);;
+    font-size: 2em;
+    font-weight: 900;
+}
+
+.end{
+    font-weight: 200;
+    font-size: 1rem;
+    color: grey;
+}
+
+h4{
+    color: rgba(7, 207, 7, 0.877);
+    font-size: 1.2em;
+}
+
+.profile p{
+    font-size: 1em;
+    color: grey;
+}
+
+.edu h6 .ins{
+    font-weight: 900;
+    font-size: 1rem;
+    color: rgb(82, 79, 79);
+}
+
+.deg{
+    font-size: 1em;
+    color: grey
+}
+
+.time{
+    color: grey;
+}
+
+.grid-container{
+    display: grid;
+    grid-auto-flow: column;
+}
+
+.grid-item{
+    color: grey;
+    margin-left: 30px;
+    margin-right: 15px;
+}
+
+.grid-item .box{
+    margin-left: 50px;
+}
+
+.grid-item p{
+    color: rgb(71, 69, 69);
+}
+
+.grid-item a{
+    color: rgba(7, 207, 7, 0.877);
+    text-decoration: none;
+}
+
+.grid-item a:hover{
+    color: grey;
+}
+
+.xp ul{
+    color: rgb(71, 69, 69);
+}
+
+.ref .grid-item{
+    color: rgb(71, 69, 69);
+}
+
+
+.log{
+    color: grey;
+}
+
+.log a{
+    color: grey;
+    text-decoration: none;
+}
+
+.info{
+    width: 40%;
+    height: 78em;
+    background-color: rgba(151, 216, 151, 0.877);
+    position: relative;
+    float: left;
+    margin-left: 20px;
+    border: 2px solid rgba(7, 207, 7, 0.877);
+}
+
+.info img{
+    align-content: center;
+    margin-top: 30px;
+    margin-left: 25%;
+    border-radius: 50%;
+}
+
+footer .foot{
+    background-color: green;
+    height: 20px;
+}
+
+p.sk{
+    color: rgba(7, 207, 7, 0.877);
+    font-size: 2em;
+    background-color: rgba(151, 216, 151, 0.877);;
+}
+
+ul p{
+    color: grey;
+    font-size: 1.3em;
+}
+
+li{
+    color: grey;
+}
+
+.skills{
+    background-color: rgba(151, 216, 151, 0.877);
+}
+
+ul.contact{
+    margin-top: 650px;
+}
+
+ul p{
+    background-color: rgba(151, 216, 151, 0.877);
+}
+
+ul.skill  li{
+    background-color: rgba(151, 216, 151, 0.877);
+}
+
+.con{
+    background-color: rgba(151, 216, 151, 0.877);
+}
+
+.fa-star{
+    font-size: 25%;
+}
